@@ -1,7 +1,7 @@
 <template>
   <h2>Settings</h2>
   <div class="container">
-    <button class="btn-clear" @click="clearLocalStorage()">Delete saved data</button>
+    <button class="btn-clear" @click="clearLocalStorage()">Reset and delete data</button>
     <button class="btn" @click="onToggle()">
       {{ store.state.chart ? 'Hide Chart' : 'Show Chart' }}
     </button>
