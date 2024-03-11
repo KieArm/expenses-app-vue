@@ -2,6 +2,12 @@
 
 This app was built with Vue 3, composition API, Vue router, Vuex and local storage.
 
+[Live Demo](https://kierana.dev/expenses-vue/)
+
+## Preview
+
+![Preview](https://kierana.dev/assets/proj_expenses_vue.webp)
+
 ## Customize configuration
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
